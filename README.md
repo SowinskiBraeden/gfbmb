@@ -1,8 +1,6 @@
 ## GoFiber BootStrap Message Box (gfbmb)
 
-When using [GoFiber](https://github.com/gofiber/fiber) with the [HTML template](https://github.com/gofiber/template/tree/master/html) to serve a basic webpage, a common tool used is BootStrap. Though, there was no simple way to add a BootStrap component like a Message Box to the page through GoFiber.
-
-I solved this issue, by writing a small package for a couple of my projects that returns the required code for a message box. Combining [GoFiber's HTML template](https://github.com/gofiber/template/tree/master/html) and my basic functions I am able to easly insert and render a message box on my html page.
+GoFiber BootStrap Message Box, and easy solution to insert BootStrap message boxes into your html page via GoFiber.
 
 <br>
 
