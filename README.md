@@ -2,8 +2,6 @@
 
 GoFiber BootStrap Message Box, and easy solution to insert BootStrap message boxes into your html page via GoFiber.
 
-<br>
-
 ### Getting Started
 
 1. Get the module in your terminal.
